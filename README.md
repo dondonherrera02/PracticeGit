@@ -1,11 +1,32 @@
 # PracticeGit
 
-TECH2102:Enterprise Computing-26JANMNOS3
-Based on what we learned today to practice the basic git commands:
+**Course:** TECH2102 – Enterprise Computing (26JANMNOS3)
 
-Create a repository in GitHub called PracticeGit.
-In your local, initialize git and add a index.html file to show a h1 title of "Hello World".
-Push your code to your GitHub repository
-Update your index.html file. The h1 title shows "Hello, your name"
-Push your code to your GitHub repository
-Paste your GitHub repository link into a document and submit this document. 
+## Objective
+Practice basic Git commands based on what we learned in class.
+
+---
+
+## Instructions
+
+1. Create a repository in GitHub called **PracticeGit**.
+
+2. In your local machine:
+   - Initialize Git.
+   - Add an `index.html` file.
+   - Inside the file, add an `<h1>` title:
+     ```html
+     <h1>Hello World</h1>
+     ```
+
+3. Push your code to your GitHub repository.
+
+4. Update your `index.html` file.
+   - Change the `<h1>` title to:
+     ```html
+     <h1>Hello, Your Name</h1>
+     ```
+
+5. Push your updated code to your GitHub repository.
+
+6. Paste your GitHub repository link into this document and submit this document.
